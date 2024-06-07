@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+E:\Workspaces\Eclipse Workspace and Installation\Exact Workspace\Quiz-SpringBoot-App\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3595069927.index
+2596416590.index
+3251697584.index
+2079662924.index
+1348447576.index
